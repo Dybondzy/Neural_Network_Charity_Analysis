@@ -77,6 +77,7 @@ Split the preprocessed data into features and target arrays.
 Split the preprocessed data into training and testing datasets.
 Standardize numerical variables using Scikit-Learn’s StandardScaler class, then scale the data.
 Save your AlphabetSoupCharity.ipynb file to your Neural_Network_Charity_Analysis folder.
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
 
 Deliverable 1 Requirements
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
