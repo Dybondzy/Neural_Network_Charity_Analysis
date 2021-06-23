@@ -232,4 +232,4 @@ Your AlphabetSoupCharity.h5 file for Deliverables 1 and 2.
 Your AlphabetSoupCharity_Optimzation.ipynb file for Deliverable 3.
 Your AlphabetSoupCharity_Optimzation.h5 file for Deliverable 3.
 An updated README.md that has your written report.
-To submit your challenge assignment in Canvas, click Submit, then provide the URL of your Neural_Network_Charity_Analysis GitHub repository for grading.
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/edit/main/README.md
