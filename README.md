@@ -24,8 +24,14 @@ What You're Creating
 This new assignment consists of three technical analysis deliverables and a written report. You will submit the following:
 
 Deliverable 1: Preprocessing Data for a Neural Network Model
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
+
 Deliverable 2: Compile, Train, and Evaluate the Model
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
+
 Deliverable 3: Optimize the Model
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb
+
 Deliverable 4: A Written Report on the Neural Network Model (README.md)
 Files
 Use the following links to download the dataset and starter code.
@@ -40,9 +46,7 @@ Create a new GitHub repository entitled "Neural_Network_Charity_Analysis" and in
 Deliverable 1: Preprocessing Data for a Neural Network Model (30 points)
 Deliverable 1 Instructions
 Using your knowledge of Pandas and the Scikit-Learn’s StandardScaler(), you’ll need to preprocess the dataset in order to compile, train, and evaluate the neural network model later in Deliverable 2.
-
-REWIND
-For this deliverable, you’ve already done the following in this module:
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
 
 Lesson 19.3.3: Create a density plot for column values
 Lesson 19.3.3: Create bins for low counts
@@ -92,15 +96,7 @@ The numerical values have been standardized using the StandardScaler() module (5
 Deliverable 2: Compile, Train, and Evaluate the Model (20 points)
 Deliverable 2 Instructions
 Using your knowledge of TensorFlow, you’ll design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup–funded organization will be successful based on the features in the dataset. You’ll need to think about how many inputs there are before determining the number of neurons and layers in your model. Once you’ve completed that step, you’ll compile, train, and evaluate your binary classification model to calculate the model’s loss and accuracy.
-
-REWIND
-For this deliverable, you’ve already done the following in this module:
-
-Lesson 19.4.4: Deep learning model design
-Lesson 19.4.5: Train and evaluate the model
-Lesson 19.6.1: Create a checkout and callback to save the model’s weights
-Lesson 19.6.2: Save the results after training
-Follow the instructions below and use the information file to complete Deliverable 2.
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb
 
 Continue using the AlphabetSoupCharity.ipynb file where you’ve already performed the preprocessing steps from Deliverable 1.
 Create a neural network model by assigning the number of input features and nodes for each layer using Tensorflow Keras.
@@ -128,21 +124,6 @@ Deliverable 3: Optimize the Model (20 points)
 Deliverable 3 Instructions
 Using your knowledge of TensorFlow, optimize your model in order to achieve a target predictive accuracy higher than 75%. If you can't achieve an accuracy higher than 75%, you'll need to make at least three attempts to do so.
 
-NOTE
-The accuracy for the solution is designed to be lower than 75% after completing the requirements for Deliverables 1 and 2.
-
-REWIND
-For this deliverable, you’ve already done the following in this module:
-
-Lesson 19.2.6: Optimize a neural network
-Lesson 19.4.4: Deep learning model design
-Lesson 19.4.5: Train and evaluate the model
-Lesson 19.5.2: Logistic vs neural network
-Lesson 19.5.3: Support vector machine vs deep learning
-Lesson 19.5.3: Random forest vs deep learning
-Lesson 19.6.1: Create a checkout and callback to save the model’s weights
-Lesson 19.6.2: Save the results after training
-Optimize your model in order to achieve a target predictive accuracy higher than 75% by using any or all of the following:
 
 Adjusting the input data to ensure that there are no variables or outliers that are causing confusion in the model, such as:
 Dropping more or fewer columns.
@@ -164,6 +145,7 @@ Design a neural network model, taking into account any modifications that will o
 Create a callback that saves the model's weights every 5 epochs.
 Save and export your results to an HDF5 file, and name it AlphabetSoupCharity_Optimization.h5.
 Save your AlphabetSoupCharity_Optimzation.ipynb file and AlphabetSoupCharity_Optimization.h5 file to your Neural_Network_Charity_Analysis folder.
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb
 
 Deliverable 3 Requirements
 You will earn a perfect score for Deliverable 3 by completing all requirements below:
@@ -217,8 +199,7 @@ Summary:
 
 There is a summary of the results (2 pt)
 There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/edit/main/README.md
 
 As a reminder, the deliverables for this Challenge are as follows:
 
