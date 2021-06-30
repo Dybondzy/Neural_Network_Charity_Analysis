@@ -109,7 +109,7 @@ Create a callback that saves the model's weights every 5 epochs.
 Evaluate the model using the test data to determine the loss and accuracy.
 Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5.
 Save your AlphabetSoupCharity.ipynb file and AlphabetSoupCharity.h5 file to your Neural_Network_Charity_Analysis folder.
-! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.h5
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.hs-20210630T011209Z-001.zip
 
 Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
@@ -145,6 +145,8 @@ Preprocess the dataset like you did in Deliverable 1, taking into account any mo
 Design a neural network model, taking into account any modifications that will optimize the model to achieve higher than 75% accuracy.
 Create a callback that saves the model's weights every 5 epochs.
 Save and export your results to an HDF5 file, and name it AlphabetSoupCharity_Optimization.h5.
+! ! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.h5
+
 Save your AlphabetSoupCharity_Optimzation.ipynb file and AlphabetSoupCharity_Optimization.h5 file to your Neural_Network_Charity_Analysis folder.
 ! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb
 
