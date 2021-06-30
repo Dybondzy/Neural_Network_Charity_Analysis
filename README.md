@@ -109,6 +109,7 @@ Create a callback that saves the model's weights every 5 epochs.
 Evaluate the model using the test data to determine the loss and accuracy.
 Save and export your results to an HDF5 file, and name it AlphabetSoupCharity.h5.
 Save your AlphabetSoupCharity.ipynb file and AlphabetSoupCharity.h5 file to your Neural_Network_Charity_Analysis folder.
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.h5
 
 Deliverable 2 Requirements
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
