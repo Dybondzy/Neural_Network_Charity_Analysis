@@ -33,12 +33,14 @@ Deliverable 3: Optimize the Model
 ! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb
 
 Deliverable 4: A Written Report on the Neural Network Model (README.md)
+
 Files
 Use the following links to download the dataset and starter code.
 
 Alphabet Soup Charity dataset (charity_data.csv) (Links to an external site.)
 
 Alphabet Soup Charity starter code (Links to an external site.)
+! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/edit/main/README.md
 
 Before You Start
 Create a new GitHub repository entitled "Neural_Network_Charity_Analysis" and initialize the repository with a README.
@@ -48,15 +50,7 @@ Deliverable 1 Instructions
 Using your knowledge of Pandas and the Scikit-Learn’s StandardScaler(), you’ll need to preprocess the dataset in order to compile, train, and evaluate the neural network model later in Deliverable 2.
 ! https://github.com/Dybondzy/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
 
-Lesson 19.3.3: Create a density plot for column values
-Lesson 19.3.3: Create bins for low counts
-Lesson 19.3.3: Place rare categorical values in a separate column
-Lesson 19.3.3: Create an instance of OneHotEncoder and fit the encoder with values
-Lesson 19.3.3: Merge DataFrames and drop original columns
-Lesson 19.3.4: Use the StandardScaler() module to standardize numerical variables
-Lesson 19.4.2: Generate a categorical variable list
-Lesson 19.4.3: Split the preprocessed data into features and target arrays, and scale the data
-Follow the instructions below and use the AlphabetSoupCharity_starter_code.ipynb file to complete Deliverable 1.
+Deliverable 1.
 
 Open the AlphabetSoupCharity_starter_code.ipynb file, rename it AlphabetSoupCharity.ipynb, and save it to your Neural_Network_Charity_Analysis GitHub folder.
 
